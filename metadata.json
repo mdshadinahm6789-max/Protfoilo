@@ -1,0 +1,6 @@
+{
+  "name": "Shadin Portfolio Website",
+  "description": "Premium interactive portfolio website for Md Shahnewaz Hossain Shadin, web developer and literary writer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
