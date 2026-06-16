@@ -141,4 +141,30 @@
     background-size: 32px 32px;
     background-image: radial-gradient(circle, rgba(0, 212, 255, 0.15) 1.5px, transparent 1.5px);
   }
+
+  /* Smooth vertical mockup scroll on hover */
+  .project-scroll-frame {
+    position: relative;
+    width: 100%;
+    height: 220px;
+    overflow: hidden;
+    background-color: #0d1b2a;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+
+  .project-scroll-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    will-change: transform;
+  }
+
+  .project-scroll-frame:hover .project-scroll-img {
+    transform: translateY(calc(-100% + 220px));
+  }
 }

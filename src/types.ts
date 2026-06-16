@@ -37,6 +37,7 @@ export interface Project {
   liveUrl: string;
   githubUrl: string;
   coverGradient: string;
+  imageUrl?: string;
 }
 
 export interface Stat {

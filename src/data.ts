@@ -105,7 +105,8 @@ export const projectsData: Project[] = [
     description: 'A subscription-based hub for ready-to-use email, presentation, and document templates with interactive checkout.',
     liveUrl: '#',
     githubUrl: '#',
-    coverGradient: 'from-[#00d4ff] via-[#112240] to-[#7c3aed]'
+    coverGradient: 'from-[#00d4ff] via-[#112240] to-[#7c3aed]',
+    imageUrl: 'https://www.image2url.com/r2/default/images/1781534346759-c21593e5-af41-4437-8860-b39f2d7b2d67.webp'
   },
   {
     id: 'p2',
@@ -115,7 +116,8 @@ export const projectsData: Project[] = [
     description: 'Shadin\'s personal showcase utilizing custom cursor glows, conic gradients, and dynamic category filtering.',
     liveUrl: '#',
     githubUrl: '#',
-    coverGradient: 'from-[#0d1b2a] via-[#112240] to-[#00d4ff]'
+    coverGradient: 'from-[#0d1b2a] via-[#112240] to-[#00d4ff]',
+    imageUrl: 'https://www.image2url.com/r2/default/images/1781534387013-fc7d3fd0-4634-43b3-89fb-f496a7ccd7f0.png'
   },
   {
     id: 'p3',
@@ -125,7 +127,8 @@ export const projectsData: Project[] = [
     description: 'UI branding and active digital design for an interactive Facebook group and content site centering family health tipcards.',
     liveUrl: '#',
     githubUrl: '#',
-    coverGradient: 'from-[#7c3aed] via-[#112240] to-[#00d4ff]'
+    coverGradient: 'from-[#7c3aed] via-[#112240] to-[#00d4ff]',
+    imageUrl: 'https://www.image2url.com/r2/default/images/1781534446782-18618850-a65d-47db-9cd4-2201782712b3.png'
   },
   {
     id: 'p4',
@@ -135,7 +138,8 @@ export const projectsData: Project[] = [
     description: 'A highly descriptive content-heavy publication project studying wild frontiers and historical narratives of early America.',
     liveUrl: '#',
     githubUrl: '#',
-    coverGradient: 'from-[#112240] via-[#0d1b2a] to-[#7c3aed]'
+    coverGradient: 'from-[#112240] via-[#0d1b2a] to-[#7c3aed]',
+    imageUrl: 'https://www.image2url.com/r2/default/images/1781534493411-143d455b-c7f5-4a98-ac71-cf5566774915.png'
   },
   {
     id: 'p5',
@@ -145,7 +149,8 @@ export const projectsData: Project[] = [
     description: 'An advertising automation layout tool allowing users to build and style custom programmatic ads with high efficiency.',
     liveUrl: '#',
     githubUrl: '#',
-    coverGradient: 'from-[#00d4ff] via-[#7c3aed] to-[#112240]'
+    coverGradient: 'from-[#00d4ff] via-[#7c3aed] to-[#112240]',
+    imageUrl: 'https://www.image2url.com/r2/default/images/1781534346759-c21593e5-af41-4437-8860-b39f2d7b2d67.webp'
   },
   {
     id: 'p6',
@@ -155,7 +160,8 @@ export const projectsData: Project[] = [
     description: 'A secure blog space for literary artists to share and outline poems, read-draft logs, and upcoming book teaser extracts.',
     liveUrl: '#',
     githubUrl: '#',
-    coverGradient: 'from-[#7c3aed] via-[#0d1b2a] to-[#00d4ff]'
+    coverGradient: 'from-[#7c3aed] via-[#0d1b2a] to-[#00d4ff]',
+    imageUrl: 'https://www.image2url.com/r2/default/images/1781534387013-fc7d3fd0-4634-43b3-89fb-f496a7ccd7f0.png'
   }
 ];
 
